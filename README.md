@@ -1,4 +1,12 @@
-### Hi there 👋
+Header
+
+About Me
+
+Languages and Tools
+
+Portfolio
+
+Connect with Me
 
 <!--
 **Diana-2604/diana-2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
