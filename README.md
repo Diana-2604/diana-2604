@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Diana-2604/diana-2604/blob/main/assets/banner.gif)
 
 About Me
 
