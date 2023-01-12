@@ -1,6 +1,8 @@
 ![Header](https://github.com/Diana-2604/diana-2604/blob/main/assets/banner.gif)
 
-About Me
+## About Me
+
+### I'm a beginner QA Engineer learning Manual and Automated Testing Tools
 
 Languages and Tools
 
