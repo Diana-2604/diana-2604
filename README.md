@@ -15,25 +15,13 @@
 ![Python](https://img.shields.io/badge/-Python-161B22?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-161B22?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-161B22?style=for-the-badge&logo=css3&logoColor=2662E9)
-![Selenium](https://img.shields.io/badge/-Selenium-161B22?style=for-the-badge&logo=selenium)
 
 
+## Portfolio
 
-Portfolio
+## Connect with Me
 
-Connect with Me
-
-<!--
-**Diana-2604/diana-2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=for-the-badge&logo=telegram)](https://t.me/DiankaK)
+[![VK](https://img.shields.io/badge/-VK-161B22?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/miracle_dina)
+[![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dianka_kds98/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/diana-kirillova-725184242/)
