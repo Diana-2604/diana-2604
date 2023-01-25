@@ -25,11 +25,11 @@
 
 
 ## Portfolio
-* Checklists
-* Test-Suites and Test-Cases
-* Bug-Reports
-* SQL-Queries
-* Postman Collections
+* ![Checklists](https://github.com/Diana-2604/Portfolio/tree/main/Checklists)
+* ![Test-Suites and Test-Cases](https://github.com/Diana-2604/Portfolio/tree/main/Test%20Cases)
+* ![Bug-Reports](https://github.com/Diana-2604/Portfolio/tree/main/Bug%20Reports)
+* ![SQL-Queries](https://github.com/Diana-2604/Portfolio/tree/main/SQL-Queries)
+* ![Postman Collections](https://github.com/Diana-2604/Portfolio/tree/main/Postman)
 
 ## Connect with Me
 
@@ -37,4 +37,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=social&logo=telegram)](https://t.me/DiankaK)
 [![VK](https://img.shields.io/badge/-VK-161B22?style=social&logo=VK&logoColor=4F7DB3)](https://vk.com/miracle_dina)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-161B22?style=social&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/diana-kirillova-725184242/)
-
