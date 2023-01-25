@@ -25,11 +25,11 @@
 
 
 ## Portfolio
-* ![Checklists](https://github.com/Diana-2604/Portfolio/tree/main/Checklists)
-* ![Test-Suites and Test-Cases](https://github.com/Diana-2604/Portfolio/tree/main/Test%20Cases)
-* ![Bug-Reports](https://github.com/Diana-2604/Portfolio/tree/main/Bug%20Reports)
-* ![SQL-Queries](https://github.com/Diana-2604/Portfolio/tree/main/SQL-Queries)
-* ![Postman Collections](https://github.com/Diana-2604/Portfolio/tree/main/Postman)
+* [Checklists](https://github.com/Diana-2604/Portfolio/tree/main/Checklists)
+* [Test-Suites and Test-Cases](https://github.com/Diana-2604/Portfolio/tree/main/Test%20Cases)
+* [Bug-Reports](https://github.com/Diana-2604/Portfolio/tree/main/Bug%20Reports)
+* [SQL-Queries](https://github.com/Diana-2604/Portfolio/tree/main/SQL-Queries)
+* [Postman Collections](https://github.com/Diana-2604/Portfolio/tree/main/Postman)
 
 ## Connect with Me
 
