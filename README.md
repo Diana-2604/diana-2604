@@ -4,7 +4,7 @@
 
 ### I'm a beginner QA Engineer learning Manual and Automated Testing Tools
 
-📋 *Take a look at my CV*
+📋 [*Take a look at my CV*](https://drive.google.com/file/d/1_O9dkiKAa65IrT0WDctA_1sb7qQridgd/view?usp=sharing)
 
 ## Languages and Tools
 
