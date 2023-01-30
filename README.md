@@ -4,7 +4,7 @@
 
 ### I'm a beginner QA Engineer learning Manual and Automated Testing Tools
 
-📋 [*Take a look at my CV*](https://drive.google.com/file/d/1_O9dkiKAa65IrT0WDctA_1sb7qQridgd/view?usp=sharing)
+📋 [*Take a look at my CV*](https://drive.google.com/file/d/16XxVzBZ-m_TmSJ6OAlG9UcC5CoLaeSp2/view?usp=sharing)
 
 ## Languages and Tools
 
@@ -36,4 +36,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=social&logo=Instagram)](https://www.instagram.com/dianka_kds98/)
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=social&logo=telegram)](https://t.me/DiankaK)
 [![VK](https://img.shields.io/badge/-VK-161B22?style=social&logo=VK&logoColor=4F7DB3)](https://vk.com/miracle_dina)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161B22?style=social&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/diana-kirillova-725184242/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161B22?style=social&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dianakirillova/))
