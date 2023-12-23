@@ -2,9 +2,9 @@
 
 ## About Me
 
-### I'm a beginner QA Engineer learning Manual and Automated Testing Tools
+### I'm a Manual-Auto QA Engineer 
 
-📋 [*Take a look at my CV*](https://drive.google.com/file/d/16XxVzBZ-m_TmSJ6OAlG9UcC5CoLaeSp2/view?usp=sharing)
+📋 [*Take a look at my CV*](https://drive.google.com/file/d/1DrghSys3J9ewNzQs8vM0rpj1zlLE4JIs/view?usp=sharing)
 
 ## Languages and Tools
 
